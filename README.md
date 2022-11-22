@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🌱 I’m currently learning Rust, C, and various web technologies.
+📫 How to reach me:
+https://t.me/bl4cklabel
+
